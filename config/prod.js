@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI : process.env.MONGO_URI
+    mongoURI : "mongodb+srv://admin:12345678a@shoppper.osgku.mongodb.net/test" //mongodb+srv://admin:12345678a@shoppper.osgku.mongodb.net/test
 }
